@@ -1,5 +1,5 @@
 # PTI-Review-JOINTECS-25145102-M.Rizky-Nurwahyudi/
-├─ summaries/
+├─ summaries/ 
 │ ├─ 01-ringkasan-<2024>.pdf
 │ ├─ 02-ringkasan-<2024>.pdf
 | ├─ 03-ringkasan-<2023>.pdf
